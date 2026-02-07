@@ -1,0 +1,148 @@
+﻿Field=#~Integer~#~50|Field=Fitted~String~Fitted~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=PartNumber~String~PartNumber~100|Field=Quantity~Integer~Quantity~100|Field=Manufacturer~String~Manufacturer~100|Field=PackageReference~String~PackageReference~100|Field=Value~String~Value~100|ReportField=Currency~USD|ReportField=ProductionQuantity~100|ReportField=ProjectFileName~PMP20873E1.PrjPcb|ReportField=ProjectFullPath~D:\TI Works\2017\PMP20873_UCD3138 1kW TTPL PFC\Web\Original materials\PMP20873RevA_Altium Files\PMP20873E1.PrjPcb|ReportField=Title~BOM (TI Designs format) For Variant [001] of Project [PMP20873E1.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~244|ReportField=ReportTime~7:23:50 AM|ReportField=ReportDate~5/17/2017|ReportField=ReportDateTime~5/17/2017 7:23:50 AM|ReportField=OutputName~BOM (TI Designs format)|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~001|ReportField=EVM_Orderable~ChangeMe!|ReportField=CopyrightYear~2016|ReportField=PCB_Layout~Eric Faraci|ReportField=PCB_Rev~E1|ReportField=PRJ_Customer~Public Release|ReportField=PRJ_Engineer~Zhong Ye and Eric Faraci|ReportField=PRJ_Number~PMP20873|ReportField=PRJ_Title~1kW-Totem-Pole-PFC-EVM|ReportField=SCH_Rev~E1|ReportField=TechSupport~http://www.ti.com/support|ReportField=TID~N/A|ReportField=Address1~Not shown in title block|ReportField=Address2~Not shown in title block|ReportField=Address3~Not shown in title block|ReportField=Address4~Not shown in title block|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~Not shown in title block|ReportField=Author~Not shown in title block|ReportField=CheckedBy~Not shown in title block|ReportField=CompanyName~Not shown in title block|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~5/17/2017|ReportField=CurrentTime~7:11:00 AM|ReportField=Date~Not shown in title block|ReportField=DocumentFullPathAndName~D:\TI Works\2017\PMP20873_UCD3138 1kW TTPL PFC\Web\Original materials\PMP20873RevA_Altium Files\PMP20873E1_Bias.SchDoc|ReportField=DocumentName~PMP20873E1_Bias.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~Eric Faraci|ReportField=Engineer~Not shown in title block|ReportField=ImagePath~Not shown in title block|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~4/11/2017|ReportField=Organization~Not shown in title block|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=0.64:XCorrection=1.00:YCorrection=1.00:PrintKind=0:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=15:PrintQuality=600:MediaType=1:DitherType=10:PaperKind=Letter:PrintScaleMode=1|ReportField=ProjectName~PMP20873E1.PrjPcb|ReportField=Revision~Use project parameter SCH_Rev|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~1|ReportField=Time~Not shown in title block|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~PMP20873E1.PrjPcb|ReportField=DataSourceFullPath~D:\TI Works\2017\PMP20873_UCD3138 1kW TTPL PFC\Web\Original materials\PMP20873RevA_Altium Files\PMP20873E1.PrjPcb
+1|Fitted|Printed Circuit Board|!PCB|PMP20873|1|Any||
+2|Fitted|CAP, CERM, 2200pF, 250V, +/-20%, KY, Radial D8x5mm|C100, C101, C104, C105|DE2E3KY222MA2BM01|4|MuRata|Radial D8x5mm|2200pF
+3|Fitted|CAP, Film, 0.47 µF, 275 V, +/- 20%, TH|C102|ECQ-U2A474ML|1|Panasonic|Radial 25x8.5x18.5|0.47uF
+4|Fitted|CAP, Film, 1uF, 275V, +/-20%, TH|C103|R46KN-4100--P1 M|1|Panasonic|Radial 26x12x19.5|1uF
+5|Fitted|CAP, Film, 1 µF, 450 V, +/- 5%, TH|C107|450MPK105J|1|Rubycon|18x9.5mm|1uF
+6|Fitted|CAP, CERM, 0.047 µF, 630 V, +/- 10%, X7R, 1210|C108, C109, C129, C130, C131, C132, C136, C137, C138|GRM32DR72J473KW01L|9|MuRata|1210|0.047uF
+7|Fitted|CAP, CERM, 2200pF, 250V, +/-20%, E, Cap, 7x12x9 mm TH|C110|C921U222MYWDBA7317|1|Kemet||2200 pF
+8|Fitted|CAP, CERM, 10uF, 16V, +/-20%, X5R, 0805|C111, C112|0805YD106MAT2A|2|AVX|0805|10uF
+9|Fitted|CAP, CERM, 1uF, 25V, +/-10%, X7R, 0603|C113, C126, C127, C222, C224, C320, C322|C1608X7R1E105K080AB|7|TDK|0603|1uF
+10|Fitted|CAP, CERM, 0.1uF, 6.3V, +/-10%, X7R, 0402|C114, C122, C123|GRM155R70J104KA01D|3|MuRata|0402|0.1uF
+11|Fitted|CAP, CERM, 0.01uF, 50V, +/-10%, X7R, 0603|C115|C0603X103K5RACTU|1|Kemet|0603|0.01uF
+12|Fitted|CAP, CERM, 1000pF, 50V, +/-10%, X7R, 0603|C116|C1608X7R1H102K|1|TDK|0603|1000pF
+13|Fitted|CAP, CERM, 1uF, 6.3V, +/-10%, X5R, 0603|C117|GRM185R60J105KE26D|1|MuRata|0603|1uF
+14|Fitted|CAP, CERM, 0.022uF, 6.3V, +/-10%, X7R, 0402|C118|GRM155R70J223KA01D|1|MuRata|0402|0.022uF
+15|Fitted|CAP, CERM, 1000pF, 50V, +/-10%, X7R, 0402|C119|C1005X7R1H102K|1|TDK|0402|1000pF
+16|Fitted|CAP, CERM, 1000pF, 6.3V, +/-10%, X5R, 0402|C120, C121|GRM155R60J102KA01D|2|MuRata|0402|1000pF
+17|Fitted|CAP, CERM, 0.056 µF, 250 V, +/- 10%, X7R, 2220|C124, C125|GA355XR7GB563KW06L|2|MuRata|2220|0.056uF
+18|Fitted|CAP, CERM, 0.22 µF, 630 V, +/- 10%, X7R, 2220|C133, C134, C135|GRM55DR72J224KW01L|3|MuRata|2220|0.22uF
+19|Fitted|CAP, CERM, 1000pF, 16V, +/-10%, X7R, 0603|C188|GRM188R71C102KA01D|1|MuRata|0603|1000pF
+20|Fitted|CAP, CERM, 0.1uF, 6.3V, +/-10%, X5R, 0402|C200, C203, C206, C219, C220|GRM155R60J104KA01D|5|MuRata|0402|0.1uF
+21|Fitted|CAP, CERM, 1000pF, 10V, +/-10%, X5R, 0402|C201|GRM155R61A102KA01D|1|MuRata|0402|1000pF
+22|Fitted|CAP, CERM, 0.01uF, 6.3V, +/-10%, X7R, 0402|C202, C205|GRM155R70J103KA01D|2|MuRata|0402|0.01uF
+23|Fitted|CAP, CERM, 4700pF, 6.3V, +/-10%, X5R, 0402|C204|GRM155R60J472KA01D|1|MuRata|0402|4700pF
+24|Fitted|CAP, CERM, 0.1 µF, 50 V, +/- 10%, X7R, 0603|C207, C223|GCM188R71H104KA57D|2|MuRata|0603|0.1uF
+25|Fitted|CAP, CERM, 2.2uF, 10V, +/-10%, X5R, 0402|C208, C218|C1005X5R1A225K050BC|2|TDK|0402|2.2uF
+26|Fitted|CAP, CER, 4.7UF, 6.3V, 20%, X5R, 0402|C209, C210|CL05A475MQ5NRNC|2|Samsung Electro-Mechanics America|0402|4.7uF
+27|Fitted|CAP, CERM, 2200 pF, 50 V, +/- 10%, X7R, 0603|C211, C212|C1608X7R1H222K|2|TDK|0603|2200pF
+28|Fitted|CAP, CERM, 1uF, 10V, +/-10%, X5R, 0402|C213|GRM155R61A105KE15D|1|MuRata|0402|1uF
+29|Fitted|CAP, CERM, 100pF, 50V, +/-5%, C0G/NP0, 0402|C214, C215|GRM1555C1H101JA01D|2|MuRata|0402|100pF
+30|Fitted|CAP, CERM, 1 µF, 25 V, +/- 10%, X7R, 0603|C216, C217|C1608X7R1E105K080AB|2|TDK|0603|1uF
+31|Fitted|CAP, TA, 100 µF, 16 V, +/- 10%, 0.1 ohm, SMD|C221|T495X107K016ATE100|1|Kemet|7343-43|100uF
+32|Fitted|CAP, CERM, 2.2 µF, 25 V, +/- 10%, X5R, 1206|C288|12063D225KAT2A|1|AVX|1206|2.2uF
+33|Fitted|CAP, CERM, 0.033 µF, 630 V, +/- 10%, X7R, 1210|C300|GRM32DR72J333KW01L|1|MuRata|1210|0.033uF
+34|Fitted|CAP, CERM, 1000 pF, 250 V, +/- 10%, X7R, 0805|C301|C2012X7R2E102K|1|TDK|0805|1000pF
+35|Fitted|CAP, AL, 330 µF, 25 V, +/- 20%, 0.053 ohm, TH|C303|25ZL330MEFC10X12.5|1|Rubycon|TH, 2-Leads, Body 10x12.5mm, Pin Spacing 5mm|330uF
+36|Fitted|CAP, CERM, 3.3uF, 25V, +/-10%, X7R, 0805|C304, C306, C323|GRM21BR71E335KA73L|3|MuRata|0805|3.3uF
+37|Fitted|CAP, TA, 4.7uF, 10V, +/-10%, 3.4 ohm, SMD|C305|293D475X9010B2TE3|1|Vishay-Sprague|3528-21|4.7uF
+38|Fitted|CAP, CERM, 10 µF, 10 V, +/- 10%, X5R, 0805|C307, C308|C0805C106K8PACTU|2|Kemet|0805|10uF
+39|Fitted|CAP, CERM, 0.047 µF, 50 V, +/- 10%, X7R, 0805|C309|C0805C473K5RACTU|1|Kemet|0805|0.047uF
+40|Fitted|CAP, CERM, 10 µF, 25 V, +/- 10%, X7R, 1206|C310|GRM31CR71E106KA12L|1|MuRata|1206|10uF
+41|Fitted|CAP, CERM, 68pF, 50V, +/-5%, C0G/NP0, 0603|C311|06035A680JAT2A|1|AVX|0603|68pF
+42|Fitted|CAP, CERM, 1000pF, 50V, +/-10%, C0G/NP0, 0603|C312|06035A102KAT2A|1|AVX|0603|1000pF
+43|Fitted|CAP, CERM, 0.022uF, 25V, +/-10%, X7R, 0603|C313|C0603C223K3RACTU|1|Kemet|0603|0.022uF
+44|Fitted|CAP, TA, 220 µF, 16 V, +/- 10%, 0.05 ohm, SMD|C314, C321|TPSV227K016R0050|2|AVX|7361-38|220uF
+45|Fitted|CAP, CERM, 22 µF, 16 V, +/- 20%, X5R, 1206|C315, C326|1206YD226MAT2A|2|AVX|1206|22uF
+46|Fitted|CAP, CERM, 0.1uF, 50V, +/-10%, C0G/NP0, 0402|C316, C317|C1005X7R1H104K|2|TDK|0402|0.1uF
+47|Fitted|CAP, CERM, 10uF, 10V, +/-10%, X7R, 0805|C318|GRM21BR71A106KE51L|1|MuRata|0805|10uF
+48|Fitted|CAP, CERM, 2200pF, 25V, +10/%, X7R, 0402|C319|GRM155R71E222KA01D|1|MuRata|0402|2200pF
+49|Fitted|CAP, CERM, 47 µF, 6.3 V, +/- 20%, X5R, 1210|C324|12106D476MAT2A|1|AVX|1210|47uF
+50|Fitted|Diode, Fast Rectifier, 800 V, 1 A, SMA|D100, D101|US1K-13-F|2|Diodes Inc.|SMA|800V
+51|Fitted|Diode, Schottky, 30V, 0.2A, SOT-23|D102, D201, D202|BAT54S-7-F|3|Diodes Inc.|SOT-23|0.65V
+52|Fitted|Diode, Switching-Bridge, 420V, 8A, TH|D103|GBU8J-BP|1|Micro Commercial Components|GBU|1V
+53|Fitted|Diode, Ultrafast, 600V, 1A, SMA|D106|MURA160T3G|1|ON Semiconductor|SMA|600V
+54|Fitted|Diode, Schottky, 30 V, 1 A, SMA|D107, D108|STPS130A|2|STMicroelectronics|SMA|30V
+55|Fitted|Diode, Schottky, 100V, 1A, SMB|D300, D302, D304|SS110-TP|3|International Rectifier|SMB|100V
+56|Fitted|Diode, Ultrafast, 800V, 1A, SMA|D301|CGRM4007-G|1|Diodes Inc.|SOD-123|1.7V
+57|Fitted|Diode, Ultrafast, 200 V, 1 A, SMA|D303|ES1D-13-F|1|Diodes Inc.|SMA|200V
+58|Fitted|LED, Green, SMD|D305|LG L29K-G2J1-24-Z|1|OSRAM|1.7x0.65x0.8mm|Green
+59|Fitted|Diode, Zener, 9.1 V, 500 mW, SOD-123|D306|MMSZ4696T1G|1|ON Semiconductor|SOD-123|9.1V
+60|Fitted|Fuse, 15 A, 250 V, TH|F100|0217015.MXEP|1|Littelfuse|D5.5xL21.5mm|
+61|Fitted|Machine Screw, Round, #4-40 x 1/4, Nylon, Philips panhead|H1, H2, H3, H4, H9, H11|NY PMS 440 0025 PH|6|B&F Fastener Supply|Screw|
+62|Fitted|Standoff, Hex, 0.5"L #4-40 Nylon|H5, H6, H7, H8, H10, H12|1902C|6|Keystone|Standoff|
+63|Fitted|AC Receptacle, 10A 250VAC|J100|703W-00/54|1|Qualtek Electronics Corporation|20X50X28.7mm|
+64|Fitted|Terminal Block, 2x1, 5.08mm, TH|J102|282841-2|1|TE Connectivity|10.16x15.2x9mm|
+65|Fitted|Header, 100mil, 3x1, Gold, TH|J103|TSW-103-07-G-S|1|Samtec|3x1 Header|
+66|Fitted|Header, 100mil, 4x2, Gold, TH|J104|TSW-104-07-G-D|1|Samtec|4x2 Header|
+67|Fitted|Pin Receptacle, .032-.046" .075" Dia, Gold, TH|J106, J107, J203, J204, J205|0312-0-15-15-34-27-10-0|5|Mill-Max|Pin Receptacle|
+68|Fitted|Receptacle, 2.54mm, 6x1, Gold, TH|J200|0448120024|1|Molex|Receptacle, 2.54mm, 6x1, TH|
+69|Fitted|SOCKET .050" GRID SIP 4 POS R/A, TH|J201|851-43-004-20-001000|1|Mill-Max|R/A 4x1 receptacle|
+70|Fitted|Header, 100mil, 5x2, Gold, TH|J202|TSW-105-07-G-D|1|Samtec|5x2 Header|
+71|Fitted|Relay, SPST-NO (1 Form A), 10 A, 12 VDC, TH|K100|G5Q-1A4 DC12|1|Omron Electronic Components|20x10mm|
+72|Fitted|Coupled inductor, 1.68 mH,  A,  ohm, TH|L100, L101|7840-21-0021|2|Nova Magnetics|D1064xT570mil|1.68mH
+73|Fitted|Inductor, Toroid, Ferrite, 481 µH, 0.057 ohm, TH|L102|G164005LF|1|GCI technologies||487uH
+74|Fitted|Inductor, Wirewound, 10 mH, 0.02 A, 32.8 ohm, SMD|L103|ASPI-0403S-103M-T|1|Abracon Corporation|6.6X4.45mm|10mH
+75|Fitted|Inductor, Wirewound, Ferrite, 1.5 mH, 0.04 A, 37 ohm, SMD|L104|LQH43MN152K03L|1|MuRata|4.5x3.2mm|1.5mH
+76|Fitted|Inductor, Drum Core, Ferrite, 2.2 µH, 2.6 A, 0.047 ohm, SMD|L300|SDR0403-2R2ML|1|Bourns|4.5x3.2x4mm|2.2uH
+77|Fitted|Thermal Transfer Printable Labels, 1.250" W x 0.250" H - 10,000 per roll|LBL1|THT-13-457-10|1|Brady|PCB Label 1.25"H x 0.250"W|
+78|Fitted|MOSFET, N-CH, 500 V, 110 A, TO-247|Q1, Q2|STY105NM50N|2|STMicroelectronics|TO-247|500V
+79|Fitted|MOSFET, N-CH, 60V, 0.26A, SOT-23|Q100|2N7002ET1G|1|ON Semiconductor|SOT-23|60V
+80|Fitted|MOSFET, N-CH, 800V, 2.5A, IPAK|Q300|STD3NK80Z-1|1|ST Microelectronics|IPAK|800V
+81|Fitted|RES, 348k ohm, 0.1%, 0.125W, 0805|R100, R101, R102, R103, R104, R105, R205, R209, R211|RT0805BRD07348KL|9|Yageo America|0805|348k
+82|Fitted|RES, 51.1 ohm, 1%, 0.1W, 0603|R106|CRCW060351R1FKEA|1|Vishay-Dale||51.1
+83|Fitted|RES, 51.1 ohm, 1%, 0.1W, 0603|R107|CRCW060351R1FKEA|1|Vishay-Dale|0603|51.1
+84|Fitted|RES, 10.0k ohm, 1%, 0.1W, 0603|R108|RC0603FR-0710KL|1|Yageo America|0603|10.0k
+85|Fitted|RES, 4.99 k, 1%, 0.125 W, 0805|R109, R110|ERJ-6ENF4991V|2|Panasonic|0805|4.99k
+86|Fitted|RES, 10.0k ohm, 1%, 0.063W, 0402|R112|CRCW040210K0FKED|1|Vishay-Dale|0402|10.0k
+87|Fitted|RES, 12.7k ohm, 1%, 0.063W, 0402|R113|CRCW040212K7FKED|1|Vishay-Dale|0402|12.7k
+88|Fitted|RES, 200 ohm, 1%, 0.1W, 0603|R114|CRCW0603200RFKEA|1|Vishay-Dale|0603|200
+89|Fitted|RES, 5.49k ohm, 1%, 0.063W, 0402|R115|CRCW04025K49FKED|1|Vishay-Dale|0402|5.49k
+90|Fitted|RES, 330k ohm, 5%, 0.063W, 0402|R116|CRCW0402330KJNED|1|Vishay-Dale|0402|330k
+91|Fitted|RES, 1.0k ohm, 5%, 0.063W, 0402|R117, R118|CRCW04021K00JNED|2|Vishay-Dale|0402|1.0k
+92|Fitted|RES, 10.0, 1%, 0.125 W, 0805|R119, R120|CRCW080510R0FKEA|2|Vishay-Dale|0805|10.0
+93|Fitted|RES, 2.00 k, 1%, 0.25 W, 1206|R121|CRCW12062K00FKEA|1|Vishay-Dale|1206|2.00k
+94|Fitted|RES, 100, 1%, 0.25 W, 1206|R122|CRCW1206100RFKEA|1|Vishay-Dale|1206|100
+95|Fitted|RES, 10.0 k, 1%, 0.1 W, 0402|R202|ERJ-2RKF1002X|1|Panasonic|0402|10.0k
+96|Fitted|RES, 2.0k ohm, 5%, 0.063W, 0402|R203|CRCW04022K00JNED|1|Vishay-Dale|0402|2.0k
+97|Fitted|RES, 3.3k ohm, 5%, 0.063W, 0402|R204|CRCW04023K30JNED|1|Vishay-Dale|0402|3.3k
+98|Fitted|RES, 3.09 k, 0.1%, 0.062 W, AEC-Q200 Grade 0, 0402|R206|ERA-2AEB3091X|1|Panasonic|0402|3.09k
+99|Fitted|RES, 1.40k ohm, 1%, 0.063W, 0402|R207|CRCW04021K40FKED|1|Vishay-Dale|0402|1.40k
+100|Fitted|RES, 2.0k ohm, 5%, 0.1W, 0603|R208, R218, R219, R220, R302|CRCW06032K00JNEA|5|Vishay-Dale|0603|2.0k
+101|Fitted|RES, 10k ohm, 5%, 0.063W, 0402|R212, R215|CRCW040210K0JNED|2|Vishay-Dale|0402|10k
+102|Fitted|RES, 5.11k ohm, 0.1%, 0.125W, 0805|R213|RT0805BRD075K11L|1|Yageo America|0805|5.11k
+103|Fitted|RES, 1.00 ohm, 1%, 0.1W, 0603|R214|CRCW06031R00FKEA|1|Vishay-Dale|0603|1.00
+104|Fitted|RES, 5.11 k, 0.1%, 0.1 W, 0603|R216, R217|RT0603BRD075K11L|2|Yageo America|0603|5.11k
+105|Fitted|RES, 100 ohm, 5%, 0.1W, 0603|R221, R223|CRCW0603100RJNEA|2|Vishay-Dale|0603|100
+106|Fitted|RES, 221, 1%, 0.063 W, 0402|R222|CRCW0402221RFKED|1|Vishay-Dale|0402|221
+107|Fitted|RES, 10.0, 1%, 0.25 W, 1206|R224|ERJ-8ENF10R0V|1|Panasonic|1206|10.0
+108|Fitted|RES, 1.00 k, 1%, 0.1 W, 0603|R225|RC0603FR-071KL|1|Yageo America|0603|1.00k
+109|Fitted|RES, 4.87 k, 0.1%, 0.062 W, AEC-Q200 Grade 0, 0402|R226|ERA-2AEB4871X|1|Panasonic|0402|4.87k
+110|Fitted|RES, 300 k, 1%, 0.25 W, 1206|R300|RC1206FR-07300KL|1|Yageo America|1206|300k
+111|Fitted|RES, 200, 5%, 0.125 W, 0805|R301|ERJ-6GEYJ201V|1|Panasonic|0805|200
+112|Fitted|RES, 100k ohm, 1%, 0.063W, 0402|R303|CRCW0402100KFKED|1|Vishay-Dale|0402|100k
+113|Fitted|RES, 330 k, 0.1%, 0.1 W, 0603|R304|RG1608P-334-B-T5|1|Susumu Co Ltd|0603|330k
+114|Fitted|RES, 750, 0.5%, 0.1 W, 0603|R305|RT0603DRE07750RL|1|Yageo America|0603|750
+115|Fitted|RES, 20.0, 1%, 0.1 W, 0603|R307|RC0603FR-0720RL|1|Yageo America|0603|20.0
+116|Fitted|RES, 60.4k ohm, 1%, 0.1W, 0603|R308|CRCW060360K4FKEA|1|Vishay-Dale|0603|60.4k
+117|Fitted|RES, 3.01 k, 1%, 0.125 W, 0805|R309|CRCW08053K01FKEA|1|Vishay-Dale|0805|3.01k
+118|Fitted|RES, 22.1 k, 1%, 0.125 W, 0805|R310|CRCW080522K1FKEA|1|Vishay-Dale|0805|22.1k
+119|Fitted|RES, 1.00k ohm, 1%, 0.1W, 0603|R311, R315|CRCW06031K00FKEA|2|Vishay-Dale|0603|1.00k
+120|Fitted|RES, 21.5k ohm, 1%, 0.1W, 0603|R312|CRCW060321K5FKEA|1|Vishay-Dale|0603|21.5k
+121|Fitted|RES, 2.00 k, 1%, 0.125 W, 0805|R313|CRCW08052K00FKEA|1|Vishay-Dale|0805|2.00k
+122|Fitted|RES, 0.91, 1%, 0.25 W, 0805|R314|CRM0805-FX-R910ELF|1|Bourns|0805|0.91
+123|Fitted|RES, 12.1 k, 1%, 0.125 W, 0805|R316|CRCW080512K1FKEA|1|Vishay-Dale|0805|12.1k
+124|Fitted|RES, 1.24 k, 1%, 0.125 W, 0805|R317|CRCW08051K24FKEA|1|Vishay-Dale|0805|1.24k
+125|Fitted|RES, 196 k, 1%, 0.125 W, 0805|R318|ERJ-6ENF1963V|1|Panasonic|0805|196k
+126|Fitted|Thermistor NTC, 50 ohm, 25%, D12.5xH16.5mm|RT100|B59751B0120A070|1|TDK|D12.5xH16.5mm|50 ohm
+127|Fitted|Switch, Push Button, SMD|S200|SKRKAEE010|1|Alps|2.9x2x3.9mm SMD|
+128|Fitted|Transformer, 13 mH, TH|T300|750315894|1|Wurth Elektronik|14.73x14.73mm|
+129|Fitted|Test Point, Miniature, Red, TH|TP100, TP109, TP300, TP301, TP302, TP303, TP304|5000|7|Keystone|Red Miniature Testpoint|Red
+130|Fitted|Test Point, Miniature, Black, TH|TP102, TP103, TP108, TP205, TP206, TP212, TP305|5001|7|Keystone|Black Miniature Testpoint|Black
+131|Fitted|Test Point, Miniature, White, TH|TP200, TP201, TP202, TP203, TP204, TP207, TP208, TP209|5002|8|Keystone|White Miniature Testpoint|White
+132|Fitted|120 kHz Bandwidth, High-Voltage Isolation Current Sensor with Integrated Overcurrent Detection|U100|ACS716KLATR-12CB-NL-T|1|Allegro Microsystems Inc|SOIC, 16-Leads, Body 10.3x7.5mm, Pitch 1.27mm|
+133|Fitted|High-Speed,4A, 600V High-side Low-side Gate Driver Device, D0014A|U101|UCC27714D|1|Texas Instruments|D0014A|
+134|Fitted|High-Performance, 8000 VPK Reinforced Triple Digital Isolator, DW0016B|U102|ISO7831FDWR|1|Texas Instruments|DW0016B|
+135|Fitted|Highly Integrated Digital Controller for Isolated Power, RHA0040B|U200|UCD3138RHAR|1|Texas Instruments|RHA0040B|
+136|Fitted|SINGLE-POLE DOUBLE-THROW ANALOG SWITCH, DRY0006A|U201|SN74LVC1G3157DRYR|1|Texas Instruments|DRY0006A|
+137|Fitted|Precision, Low Noise, Low Iq Operational Amplifier, 2.2 to 5.5 V, -40 to 125 degC, 5-pin SOT23 (DBV0005A), Green (RoHS & no Sb/Br)|U202|OPA376AIDBVT|1|Texas Instruments|DBV0005A|
+138|Fitted|Micropower, 200 mA Ultra Low-Dropout Fixed or Adjustable Voltage Regulator, 8-pin Mini SOIC|U300|LP2986AIMM-3.3|1|National Semiconductor|MUA08A|
+139|Fitted|Constant-Voltage, Constant-Current Flyback Controller Using Opto-Coupler Feedback, D0007A|U301|UCC28740DR|1|Texas Instruments|D0007A|
+140|Fitted|Optocoupler, 5 kV, 50-600% CTR, TH-4|U302|LTV-817S|1|Lite-On|DIP-4|
+141|Fitted|Low Voltage Adjustable Precision Shunt Regulator, 39 ppm / degC, 15 mA, 0 to 70 degC, 3-pin SOT-23 (DBZ), Green (RoHS & no Sb/Br)|U303|TLV431ACDBZR|1|Texas Instruments|DBZ0003A|
+142|Fitted|Buck Step Down Regulator with 3 to 17 V Input and 5 V Output, -40 to 85 degC, 16-Pin QFN (RGT), Green (RoHS & no Sb/Br)|U304|TPS62153RGTT|1|Texas Instruments|RGT0016C|
+143|Fitted|Single Output LDO, 150 mA, Fixed 3.3 V Output, 2.5 to 24 V Input, with Ultra-Low IQ, 5-pin SOT-23 (DBV), -40 to 85 degC, Green (RoHS & no Sb/Br)|U305|TLV70133DBVT|1|Texas Instruments|DBV0005A|
+144|Not Fitted|Fiducial mark.  There is nothing to buy or mount.|FID1, FID2, FID3|N/A|0|N/A|Fiducial|
+145|Not Fitted|50 OHM BNC ELEVATED STRAIGHT JACK, TH|J101|BNC5-J-P-GN-ST-TH2D|0|Samtec|50 OHM BNC ELEVATED STRAIGHT JACK, TH|
+146|Not Fitted|Signal Power Combo Socket Strip, 4x3, 4 Power Group, R/A, Gold, TH|J105|PESC-02-12-02-01-L-RA-LC|0|Samtec|Connector, 4x3, 4 Power Group, R/A, TH|
+147|Not Fitted|Test Point, Miniature, White, TH|TP210|5002|0|Keystone|White Miniature Testpoint|White

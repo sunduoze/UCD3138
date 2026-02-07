@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=UCD3138 Demo Board.SchDoc
+Record=SheetSymbol|SourceDocument=UCD3138 Demo Board.SchDoc|Designator=U_Connector|SchDesignator=U_Connector|FileName=Connector.SchDoc|SymbolType=Device Sheet|RawFileName=Connector|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=UCD3138 Demo Board.SchDoc|Designator=U_UCD3138 Digital Controller|SchDesignator=U_UCD3138 Digital Controller|FileName=UCD3138 Digital Controller.SchDoc|SymbolType=Device Sheet|RawFileName=UCD3138 Digital Controller|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
